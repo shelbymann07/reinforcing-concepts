@@ -1,37 +1,37 @@
 web-app-template-simple
 =======================
 ###Starting a new project
-1. clone copy of the news apps template from chris’ git page
-2. rename locally
+1. Clone copy of the news apps template from Chris’ Git page.
+2. Rename locally.
 
 git command to clone and rename a repository locally: 
 	$ git clone [repository address here] file-name-here
 
 
 ###Save to YOUR repository
-1. add all untracked files to the repository
+1. Add all untracked files to the repository.
 ```
 	$ git add .
 		OR
 	$ git add -A
 ```
-2. create a new repo on YOUR git page
+2. Create a new repository on your Git page.
 ```
-	open your git page, create and name a new repository.
+	Open your Git page, create and name a new repository.
 ```
-3. remove the original ORIGIN (which links to Chris’ git page)
+3. Remove the original ORIGIN (which links to Chris’ Git page).
 ```
 	$ git remote rm origin
 ```
-4. add YOUR origin to the repos
+4. Add YOUR origin to the repository.
 ```
 	$ git remote add origin [address copied from newly created repository]
 ```
-5. commit your changes
+5. Commit your changes.
 ```
 	$ git commit -am "insert message here"
 ```
-6. push to your new repository 
+6. Push to your new repository.
 ```
 	$ git push origin master
 
