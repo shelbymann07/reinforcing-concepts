@@ -36,6 +36,7 @@ Git command to clone and rename a repository locally:
 6. Push to your new repository.
 ```
 	$ git push origin master
+```
 
 
 
