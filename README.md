@@ -6,7 +6,7 @@ web-app-template-simple
 
 git command to clone and rename a repository locally: 
 	$ git clone [repository address here] file-name-here
-```
+
 
 ###Save to YOUR repository
 1. add all untracked files to the repository
