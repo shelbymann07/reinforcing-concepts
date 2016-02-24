@@ -4,8 +4,10 @@ web-app-template-simple
 1. Clone copy of the news apps template from Chris’ Git page.
 2. Rename locally.
 
-git command to clone and rename a repository locally: 
+Git command to clone and rename a repository locally: 
+```
 	$ git clone [repository address here] file-name-here
+```
 
 
 ###Save to YOUR repository
